@@ -24,3 +24,5 @@ Fit Connect is an interactive platform that allows users to share their fitness 
 3. Start the development server: `npm start`
 
 This version highlights that the backend work is ongoing and will be updated soon!
+
+--Ayush Adk--
